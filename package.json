@@ -1,0 +1,23 @@
+{
+  "name": "gochiusa_ios_book",
+  "version": "1.0.0",
+  "description": "Is the order an SE?",
+  "main": "index.js",
+  "scripts": {
+    "textlint": "textlint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/gochiusa/book_ios.git",
+  "author": "gomi_ningen <korun24276@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gochiusa/book_ios/issues"
+  },
+  "homepage": "https://github.com/gochiusa/book_ios#readme",
+  "devDependencies": {
+    "textlint": "^7.4.0",
+    "textlint-rule-max-ten": "^2.0.3",
+    "textlint-rule-no-mix-dearu-desumasu": "^3.0.3",
+    "textlint-rule-spellcheck-tech-word": "^5.0.0"
+  }
+}
